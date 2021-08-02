@@ -4,6 +4,9 @@
 
 2- Ponerle permisos que no sea desarrollo.
 
+3- Ayudar a recordarle desarrollos.
+
+
 # No es Soporte.
 1- Desarrollos de Módulos.
 
