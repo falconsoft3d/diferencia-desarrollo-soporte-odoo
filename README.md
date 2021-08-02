@@ -18,6 +18,8 @@
 
 5- Arreglar errores que el usuario a cometido con Odoo Studio.
 
+6- No es soporte desarrollos que el usuario que es "BASICO" y que odoo no lo implementa.
+
 
 
 
