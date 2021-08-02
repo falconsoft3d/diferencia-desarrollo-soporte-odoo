@@ -1,5 +1,4 @@
-# Diferencia Desarrollo Soporte Odoo.
-# Que es desarrollo y que es soporte ?
+# ¿ Qué es desarrollo y que es soporte ?
 # Soporte.
 1- Soporte es configurar o recordar al usuario lo que esta en la documentación de Odoo en este link: https://www.odoo.com/documentation/14.0/es/
 
